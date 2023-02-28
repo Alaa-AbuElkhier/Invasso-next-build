@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="50" viewBox="0 0 40 50">
+    <path d="M21.667 0H.833a.833.833 0 0 0 0 1.667h20.834a.833.833 0 1 0 0-1.667z" transform="translate(10.833 20.367)" style="fill:#1a47b0"/>
+    <path data-name="Shape" d="M.833 1.667h8.334a.833.833 0 0 0 0-1.667H.833a.833.833 0 0 0 0 1.667z" transform="translate(10.833 13.7)" style="fill:#1a47b0"/>
+    <path data-name="Shape" d="M21.667 0H.833a.833.833 0 0 0 0 1.667h20.834a.833.833 0 1 0 0-1.667z" transform="translate(10.833 27.033)" style="fill:#1a47b0"/>
+    <path data-name="Shape" d="M21.667 0H.833a.833.833 0 0 0 0 1.667h20.834a.833.833 0 1 0 0-1.667z" transform="translate(10.833 33.7)" style="fill:#1a47b0"/>
+    <path data-name="Shape" d="M21.667 0H.833a.833.833 0 0 0 0 1.667h20.834a.833.833 0 1 0 0-1.667z" transform="translate(10.833 40.367)" style="fill:#1a47b0"/>
+    <path data-name="Shape" d="M40 50H4.167v-4.168H0V0h35.834v12.155L40 16.321V50zM5.833 5.833v42.5h32.5V17.5H26.667V5.833H5.833zM1.667 1.667v42.5h2.5v-40h23.678l6.322 6.321V1.667zm26.666 5.345v8.822h8.822l-1.321-1.322-7.5-7.5z" style="fill:#1a47b0"/>
+</svg>

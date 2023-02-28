@@ -1,0 +1,19 @@
+<svg id="Group_188" data-name="Group 188" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="53.686" viewBox="0 0 50 53.686">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fa2b56"/>
+      <stop offset="1" stop-color="#f91c3d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_187" data-name="Group 187">
+    <path id="Shape" d="M20,46H14a1,1,0,0,1-1-1V43H12a1,1,0,0,1-1-1V32.9a17.022,17.022,0,1,1,12,0V42a1,1,0,0,1-1,1H21v2A1,1,0,0,1,20,46ZM13,36v5h1a1,1,0,0,1,1,1v2h4V42a1,1,0,0,1,1-1h1V36ZM17,2a15,15,0,0,0-4.688,29.242,1,1,0,0,1,.688.95V34h8V32.192a1,1,0,0,1,.688-.95A15,15,0,0,0,17,2Z" transform="translate(8 7.686)" fill="url(#linear-gradient)"/>
+    <path id="Shape-2" data-name="Shape" d="M1,6A1,1,0,0,0,2,5V1A1,1,0,0,0,0,1V5A1,1,0,0,0,1,6Z" transform="translate(24)" fill="url(#linear-gradient)"/>
+    <path id="Shape-3" data-name="Shape" d="M5,0H1A1,1,0,0,0,1,2H5A1,1,0,0,0,5,0Z" transform="translate(44 24)" fill="url(#linear-gradient)"/>
+    <path id="Shape-4" data-name="Shape" d="M5,0H1A1,1,0,0,0,1,2H5A1,1,0,0,0,5,0Z" transform="translate(0 24)" fill="url(#linear-gradient)"/>
+    <path id="Shape-5" data-name="Shape" d="M3.121.293.293,3.121A1,1,0,1,0,1.707,4.535L4.535,1.707A1,1,0,0,0,3.121.293Z" transform="translate(38.143 7.029)" fill="url(#linear-gradient)"/>
+    <path id="Shape-6" data-name="Shape" d="M3.121.293.293,3.121A1,1,0,1,0,1.707,4.535L4.535,1.707A1,1,0,0,0,3.121.293Z" transform="translate(7.029 38.143)" fill="url(#linear-gradient)"/>
+    <path id="Shape-7" data-name="Shape" d="M1.707.293A1,1,0,0,0,.293,1.707L3.121,4.535A1,1,0,0,0,4.535,3.121Z" transform="translate(38.143 38.143)" fill="url(#linear-gradient)"/>
+  </g>
+  <path id="Shape-8" data-name="Shape" d="M3.121,4.535A1,1,0,0,0,4.535,3.121L1.707.293A1,1,0,0,0,.293,1.707Z" transform="translate(7.029 7.029)" fill="url(#linear-gradient)"/>
+  <path id="Shape-9" data-name="Shape" d="M12,0A12.013,12.013,0,0,0,0,12a1,1,0,0,0,2,0A10.011,10.011,0,0,1,12,2a1,1,0,0,0,0-2Z" transform="translate(13 13)" fill="url(#linear-gradient)"/>
+</svg>
